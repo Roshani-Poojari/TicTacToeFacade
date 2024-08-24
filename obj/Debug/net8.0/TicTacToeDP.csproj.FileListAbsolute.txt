@@ -1,0 +1,15 @@
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\bin\Debug\net8.0\TicTacToeDP.exe
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\bin\Debug\net8.0\TicTacToeDP.deps.json
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\bin\Debug\net8.0\TicTacToeDP.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\bin\Debug\net8.0\TicTacToeDP.dll
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\bin\Debug\net8.0\TicTacToeDP.pdb
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.dll
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\refint\TicTacToeDP.dll
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.pdb
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\ref\TicTacToeDP.dll
+C:\Users\roshani.poojari\Desktop\Training\TicTacToeDP\obj\Debug\net8.0\TicTacToeDP.sourcelink.json
